@@ -1,0 +1,42 @@
+C programlama dilini öðrenmeye geçmeden önce bilgisayar nedir, bilgisayarýn tarihçesini, programlama nedir ve ne iþe yaradýðýný bilmekte fayda var.
+
+Bilgisayar
+
+Baþlangýçta hesaplama sürecini kolaylaþtýran nesnelere bilgisayar adý verilirdi. . Bu ilk dönemin bilgisayar örnekleri arasýnda sayý boncuðu (abaküs) ve Anti Kitira Makinesi (M.Ö 150- M.Ö100) sayýlabilir. Yüzyýllar sonra, Orta Çað sonundaki yeni bilimsel keþiflerin ýþýðýnda Avrupalý mühendisler tarafýndan geliþtirilen bir dizi makinesel hesaplama aygýtlarýnýn ilki ise, Wilhelm Schickard'a (1623) aittir. Ancak, yazýlýmlanabilir (veya kurulabilir) olmamalarý nedeniyle bu aygýtlarýn hiçbiri günümüz bilgisayar tanýmýna uymamaktadýr. 1801 yýlýnda Joseph Marie Jacquard'ýn dokuma tezgahýndaki iþlemi otomatikleþtirmek adýna ürettiði delikli kartlar ise bilgisayarlarýn geliþme sürecindeki, kýsýtlý da olsa, ilk yazýlýmlanabilme (kurulabilme) izlerinden sayýlýr.
+
+1837 yýlýnda Charles Babbage, adýný Analytical Engine (çözümlemeli veya analitik makine) koyduðu, ilk tam yazýlýmlanabilir makinesel bilgisayarý kavramsallaþtýrýp tasarladý. Ancak parasal nedenler ve üzerindeki çalýþmalarýnýn sonlanamamasý nedeniyle bu makineyi geliþtiremedi.
+
+Delikli kartlarýn ilk büyük ölçekli kullanýmý ise Herman Hollerith tarafýndan, 1890 yýlýnda muhasebe iþlemlerinde kullanýlmak üzere tasarlanan hesap makinesidir. Hollerith'in o dönemde baðlý olduðu iþletme ise sonraki yýllarda küresel bilgisayar devine dönüþecek IBM'dir. 19. yüzyýlýn sonlarýna varýldýðýnda, gelecek yýllarda biliþim donaným ve kuramlarýnýn geliþimine büyük katkýda bulunacak uygulayýmlar (teknolojiler) ortaya çýkmaya baþlamýþtýlar: delikli kartlar, Boole cebiri, boþluk tüpleri ve teletip aygýtlarý.
+
+1930'lar ve 1940'lar boyunca bilgisayar uygulayýmý geliþmeye devam etti, ve sayýsal elektronik bilgisayarýn ortaya çýkýþý ancak elektronik devrelerinin buluþundan (1937) sonra gerçekleþebildi.
+
+Konrad Zuse'nin "Z makineleri". Z3 (1941) ikili sayý tabanýna dayalý iþleyip, gerçel sayýlar ile iþlem yapabilen ilk makinedir. 1998 yýlýnda Z3'ün Turing uyumlu olduðu kanýtlanmýþ ve böylece ilk bilgisayar unvanýný edinmiþtir.
+Atanasoff-Berry Bilgisayarý (1941) boþluk tüplerine dayalý olup, ikili sayý tabanýnýn yaný sýra, sýðaç tabanlý bellek donanýmýna sâhipti.
+Ýngiliz yapýmý Colossus bilgisayarý (1944), kýsýtlý yazýlýmlanabilirliðine (kurulabilirliðine) karþýn, binlerce tüp kullanýmýnýn yeterince güvenilir bir sonuç verebileceðini göstermiþtir. II. Dünya Savaþý'nda Alman silahlý kuvvetlerinin gizli letiþimlerini çözümlemek için kullanýlmýþtýr.
+Harvard Mark I (1944), kýsýtlý kurulabilirliðe sahip bir bilgisayar.
+ABD Ordusu tarafýndan geliþtirilen ENIAC (1946), onluk sayý tabanýna dayalý olup ilk genel kullaným amaçlý elektronik bilgisayar unvanýna sahiptir.
+ENIAC'ýn olumsuz yanlarýný saptayan geliþtiricileri, daha esnek ve zarif bir çözüm üzerinde çalýþýp, artýk saklý yazýlým mimarisi veya daha çokvon Neumann mimarisi olarak tanýnan tasarýmý önerdiler. Bu tasarýmdan ilk olarak John von Neumann (1945) yýlýnda gerçekleþtirdiði bir yayýnda söz etmesinden sonra, bu mimariye dayalý olarak geliþtirilen bilgisayarlardan ilki Birleþik Krallýk'ta tamamlandý (SSEM). Ayný mimariye bir yýl sonra kavuþan ENIAC'a ise EDVAC adý verildi.
+
+Günümüz bilgisayarlarýnýn neredeyse tamamýnýn bu mimariye uyumlu duruma gelmesi ile bilgisayar sözcüðünün tanýmý olarak da kullanýlmaktadýr. Dolayýsýyla bu tanýma göre geçmiþteki aygýtlar bilgisayar olarak sayýlmasalar da, tarihsel baðlamda yine de o biçimde anýlmaktadýrlar. Her ne kadar 1940'lardan bu yana bilgisayar uygulayýmý köklü deðiþiklikler geçirmiþ olsa da, çoðunluðu von Neumann mimarisine sadýk kalmýþtýr.
+
+Boþluk tüpüne dayalý bilgisayarlar 1950'ler boyunca kullanýmda kaldýktan sonra, 1960'larda daha hýzlý ve ucuz olan geçirgeç (transistör) tabanlý bilgisayarlar yaygýnlýk kazandý. Bu etkenlerin sonucunda bilgisayarlarýn daha önce görülmemiþ bir düzeyde toplu üretimine geçirildi. 1970'lere varýldýðýnda tümleþik devre uygulayýmý ve Intel 4004 gibi mikroiþlemcilerin geliþtirilmesi sayesinde bir kez daha büyük bir baþarým ve güvenilirlik artýþýnýn yaný sýra, maliyet düþüþü de yaþandý. 1980'lerde artýk bilgisayarlar, çamaþýr makinesi gibi günlük hayat kullanýmýndaki birçok makinesel aygýtýn denetleyici donanýmlarýndaki yerlerini almaya baþlamýþlardý. Yine ayný dönemde, kiþisel bilgisayarlar yaygýnlýk kazanýyorlardý. Son olarak 1990'lardaki Internet'in geliþimi ile de bilgisayarlar televizyon ve telefon gibi alýþýlmýþ birer aygýt hâline gelmiþlerdir.
+
+Ýkili Sayý Sistemi(Binary Code)
+
+Günümüz bilgisayarlarýnýn neredeyse tamamýnda ikili sayý sitemi kullanýlmaktadýr. Ýkili sayýlar sayýlarýn 2 tabanýnda yazýlmasýyla elde edilir. Dolayýsýyla tüm sayýlar 0 ve 1 rakamlarý kullanýlarak ifade edilirler. Elektronik devrelerindeki kolay uygulanabilmeleri açýsýndan bilgisayarda kullanýlýrlar.
+
+
+Günlük hayatta sayýlarý ifade etmek için onluk taban [decimal] kullanýlýr. Bunun anlamý, her sayýnýn 0, 1, 2, 3, 4, 5, 6, 7, 8 ve 9 rakamlarý kullanýlarak ifade edilmesidir. Sayýlarýn en saðýndaki basamaðýna birler, ikincisine onlar ve üçüncüsüne de yüzler basamaðý denildiði genel olarak bilinmekte.
+
+Ýkili sayýlarda ise fark 10 yerine taban olarak 2'nin kullanýlmasýdýr. Dolayýsýyla kullanabileceðimiz rakamlar 0 ve 1'dir. 0 ve 1'i kullandýktan sonra daha büyük sayýlarý ifade etmek için yeni basamak ekleyip tekrar 1'den baþlanmasý gerekir. Kýsacasý bilgisayarýn temel çalýþma prensibi ikili sayý sistemi yani sadece 0 ve 1 den oluþan kodlamalardýr.
+
+
+Programlama
+
+Peki, programlama nedir? Ne iþe yarar?
+
+Programlama bilgisayarýn donanýma nasýl davranacaðýný anlatan kýsacasý bilgisayarýn iþlevlerini yerine getiren komutlardan ibarettir. Diðer bir taným verecek olursak programlama, bilgisayar programlarýnýn yazýlmasý, test edilmesi ve bakýmýnýn yapýlmasý sürecine verilen isimdir.  Programlama, bir programlama dilinde yapýlýr. Bu programlama dili Java ve C# gibi yüksek seviyede bir dil olabileceði gibi C, assembly ve bazý durumlarda makine dili de olabilir. 
+
+Programcý Kimdir?
+
+Programý belli düzende ve anlaþýlýr þekilde yazan ardýndan derleyip çalýþtýran kiþidir.
