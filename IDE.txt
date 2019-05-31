@@ -1,0 +1,13 @@
+Artýk C programlama derslerimizde  console uygulamalarýna geçebiliriz.Tabii uygalamalarý bir IDE  (Integrated Development Environment) üzerinde yazabiliriz.Peki bu IDE nedir,ne iþe yarar biraz da bundan bahsedelim.
+
+IDE Nedir?
+
+Bilgisayar programcýlarýnýn hýzlý ve rahat bir þekilde yazýlým geliþtirebilmesini amaçlayan, geliþtirme sürecini organize edebilen birçok araç ile birlikte geliþtirme sürecinin verimli kullanýlmasýna katkýda bulunan araçlarýn tamamýný içerisinde barýndýran bir yazýlým türüdür. Kýsacasý kodlarýmýzý yazýp burada derleyip hatalarýmýzý ayýklayan,hatanýn nerede olduðunu söyleyen yazýlýmlardýr.
+
+En temel özellikleri:
+
+Programlama diline göre sözdizimi renklendirmesi yapabilen kod yazým editörü.
+Kod dosyalarýnýn hiyerarþik olarak görülebilmesi amacýyla hazýrlanmýþ gerçek zamanlý bir dizelge.
+Tümleþik bir derleyici,yorumlayýcý ve hata ayýklayýcý.
+Yazýlýmýn derlenmesi, baðlanmasý, çalýþmaya tümüyle hazýr hale gelmesi ve daha birçok ek iþi otomatik olarak yapabilmek amacýyla küçük inþa araçlarý.
+Günümüzde bir sürü IDE vardýr.Hangi dilde yazmak istiyorsanýz internetten bu yazýlýmlara ulaþabilir, kodlarýnýzý bu IDE’ler üzerinde yazabilir,uygulamalarýnýzý bu IDE’ler üzerinde kolayca yapabilirsiniz. C programlarýnýzý Code::Blocks ile yazabilirsiniz.Bu IDE ‘ye www.codeblocks.org adresinden ulaþabiliriz ve indirebilirsiziniz.Ben DEV C++ IDE ‘sini kullanacaðým,kodlarýmý burada yazacaðým.Ýnternetten bu IDE ‘ye kolayca ulaþabilirsiniz.Ýstediðiniz yerden indirin ve kurma iþlemine baþlayalým.
